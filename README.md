@@ -1,6 +1,6 @@
 # BlockBundle
 
-Symofny Block Bundle
+Symfony Block Bundle
 
 
 ## Configure
