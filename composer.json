@@ -1,0 +1,20 @@
+{
+    "name": "app-verk/block-bundle",
+    "description": "AppVerk block bundle",
+    "type": "symfony-bundle",
+    "autoload": {
+        "psr-4": {
+          "AppVerk\\BlockBundle\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Michał Kurcewicz",
+            "email": "michal.kurcewicz@appverk.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.0"
+    }
+}
